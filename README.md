@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there, I am Rizki 👋
 
-### I am a 3rd year Computer Science student at San Jose State University
+- I am a 3rd year Computer Science student at San Jose State University
+- Currently looking for Software Engineer Internship experience for Summer 2024
+  
+
 <!--
 **RizkiAlhamid/RizkiAlhamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
