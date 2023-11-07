@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### I am a 3rd year Computer Science student at San Jose State University
 <!--
 **RizkiAlhamid/RizkiAlhamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
