@@ -1,7 +1,6 @@
 ### Hi there, I am Rizki 👋
 
-- I am a 3rd year Computer Science student at San Jose State University
-- Currently looking for Software Engineer Internship experience for Summer 2024
+- I am a 4th year Computer Science student at San Jose State University, will be graduating in May 2024
   
 
 <!--
