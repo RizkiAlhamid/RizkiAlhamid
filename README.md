@@ -1,8 +1,3 @@
-### Hi there, I am Rizki 👋
-
-- I am a 4th year Computer Science student at San Jose State University, will be graduating in May 2024
-  
-
 <!--
 **RizkiAlhamid/RizkiAlhamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
